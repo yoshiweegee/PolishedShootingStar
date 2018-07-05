@@ -1,0 +1,24 @@
+﻿16,21,,,
+碎片掉到这片密林里去了呢…,TRUE,FALSE,FaceMarisa_sp,FaceSeiryuu_sp
+不过话说这附近的树木也太茂密了吧…不方便收集呢,TRUE,FALSE,FaceMarisa_lo,FaceSeiryuu_sp
+不赶紧到视野好一点的地方去的话……,TRUE,FALSE,FaceMarisa_lo,FaceSeiryuu_sp
+你是…人类？,FALSE,TRUE,FaceMarisa_lo,FaceSeiryuu_sp
+暂时还是~,TRUE,FALSE,FaceMarisa_hp,FaceSeiryuu_sp
+人类为何要来这偏远的柳林呢？,FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_no
+本来是顺着魔力来收集星星碎片的说…然后…,TRUE,FALSE,FaceMarisa_no2,FaceSeiryuu_no
+迷路了~,TRUE,FALSE,FaceMarisa_hp2,FaceSeiryuu_no
+哈？,FALSE,TRUE,FaceMarisa_hp2,FaceSeiryuu_sw
+那个 方便的话 可以指个路么ZE~,TRUE,FALSE,FaceMarisa_hp,FaceSeiryuu_sw
+诶嘿~可以的哟~,FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_no
+不过作为交换,FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_hp
+把你手中的流星碎片留下吧,FALSE,TRUE,FaceMarisa_hp,FaceSeiryuu_dp
+只有这个不可以呢,TRUE,FALSE,FaceMarisa_no,FaceSeiryuu_dp
+你该不会一开始就看准了这个吧？,TRUE,FALSE,FaceMarisa_sw,FaceSeiryuu_dp
+柳树的妖怪？,TRUE,FALSE,FaceMarisa_sw,FaceSeiryuu_dp
+被识破了吗？,FALSE,TRUE,FaceMarisa_sw,FaceSeiryuu_no
+你也不是简单的人类啊,FALSE,TRUE,FaceMarisa_sw,FaceSeiryuu_dp
+人类少女怎么会孤零零地来这偏远的柳林,TRUE,FALSE,FaceMarisa_no,FaceSeiryuu_dp
+把你手中的八卦炉作为交换也是可以的哦~,FALSE,TRUE,FaceMarisa_no,FaceSeiryuu_sp
+这个也不行！,TRUE,FALSE,FaceMarisa_an,FaceSeiryuu_sp
+是吗？那么……,FALSE,TRUE,FaceMarisa_an,FaceSeiryuu_dp
+就把你的命留下吧！,FALSE,TRUE,FaceMarisa_an,FaceSeiryuu_sw

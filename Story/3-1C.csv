@@ -1,0 +1,23 @@
+﻿15,20,,,
+不知不觉已经进入密林当中了吗？,TRUE,FALSE,FaceSanae_no,FaceSeiryuu_sp
+呜……视线都被遮挡住了 这样就没法看到流星了呢,TRUE,FALSE,FaceSanae_lo,FaceSeiryuu_sp
+不赶紧飞上树林上方的话……,TRUE,FALSE,FaceSanae_sw,FaceSeiryuu_sp
+咦？是人类吗,FALSE,TRUE,FaceSanae_sw,FaceSeiryuu_sp
+人类为何会来这片偏远的柳林？,FALSE,TRUE,FaceSanae_sw,FaceSeiryuu_hp
+那个 我是来调查这些流星碎片的,TRUE,FALSE,FaceSanae_no2,FaceSeiryuu_hp
+总觉得要是收集到这份力量的话,TRUE,FALSE,FaceSanae_no,FaceSeiryuu_hp
+信仰也会增加的吧,TRUE,FALSE,FaceSanae_no,FaceSeiryuu_hp
+是这样啊~,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_hp
+的确呢 能够感受到这些星星里面包含着充足的魔力,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_dp
+你知道是谁在制造这些流星吗？,TRUE,FALSE,FaceSanae_no,FaceSeiryuu_dp
+不知道呢,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_no
+不过如果吸收掉的话,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_hp
+我的力量也会增长的吧,FALSE,TRUE,FaceSanae_no,FaceSeiryuu_sw
+你是妖怪？,TRUE,FALSE,FaceSanae_sp,FaceSeiryuu_sw
+你觉得会有孤零零的人类少女来到这偏远的地方吗,FALSE,TRUE,FaceSanae_sp,FaceSeiryuu_sw
+你也在收集流星碎片吗？,TRUE,FALSE,FaceSanae_an2,FaceSeiryuu_sw
+原来是竞争对手呢,TRUE,FALSE,FaceSanae_an,FaceSeiryuu_sw
+区区人类也要与妖怪竞争吗？被小看了啊,FALSE,TRUE,FaceSanae_an,FaceSeiryuu_dp
+怎么说我也是存在了千年的妖怪了,FALSE,TRUE,FaceSanae_an,FaceSeiryuu_dp
+妖怪的厉害之处,FALSE,TRUE,FaceSanae_an,FaceSeiryuu_sw
+就让你好好体会一下吧！,FALSE,TRUE,FaceSanae_an,FaceSeiryuu_sw
